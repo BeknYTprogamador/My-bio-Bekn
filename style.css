@@ -13,8 +13,10 @@ body *{
 body{
     background: url(./assets/background.png) no-repeat top center/cover;
     margin: 0;
+    padding: auto;
     height: 100vh;
-    padding: 15vh;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
 }
 
 ul{
@@ -68,4 +70,16 @@ ul li a:hover{
     margin: 15px;
     font-weight: 500;
     line-height: 24px;
+}
+
+@media (max-width: 360px) {
+    #container{
+        width: 40vh; 
+    }
+}
+
+@media (max-width: 300px) {
+    #container{
+        width: 30vh; 
+    }
 }
