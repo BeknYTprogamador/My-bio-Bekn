@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-001-purple)
 ![language](https://img.shields.io/badge/HTMl_5-orange)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue)
-![GitHub Update](https://img.shields.io/badge/Update-5.1-blue)
+![GitHub Update](https://img.shields.io/badge/Update-5.4-blue)
 
 <img src="./bekn-bg.png" alt="exemplo imagem">
 
