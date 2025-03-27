@@ -46,9 +46,9 @@ ul li a:hover{
 
 #container{
     padding: 10px;
-    padding-top: 60px;
-    width: 360px;
-    height: 75vh;
+    padding-top: 10px;
+    width: 365px;
+    height: 78vh;
     margin: auto;
     border: 2px rgba(255, 255, 255,0.5) solid;
     border-radius: 8px;
